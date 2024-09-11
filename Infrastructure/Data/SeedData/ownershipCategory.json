@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "Owned",
+        "Description": "The asset is fully owned by the organization. It was purchased outright, and the organization holds full ownership rights without any external financial obligations.",
+        "IsActive": true
+    },
+    {
+        "Name": "Leased",
+        "Description": "The asset is leased from a third party for a specified period. The organization has temporary usage rights but does not own the asset. Ownership remains with the lessor until the lease expires or is bought out.",
+        "IsActive": true
+    },
+    {
+        "Name": "Rented",
+        "Description": "The asset is rented on a short-term or recurring basis. The organization does not own the asset, and it must be returned to the owner after the rental period ends.",
+        "IsActive": true
+    },
+    {
+        "Name": "Under Finance Agreement",
+        "Description": "The asset is financed through a loan or other financial agreement. The organization is paying off the asset over time, and ownership is transferred fully once the financial obligations are met.",
+        "IsActive": true
+    },
+    {
+        "Name": "Shared Ownership",
+        "Description": "The asset is owned in part by the organization and in part by another entity. Both entities share the rights to use and maintain the asset, often based on an ownership percentage.",
+        "IsActive": true
+    }
+]

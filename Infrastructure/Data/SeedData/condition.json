@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "New",
+        "Description": "The asset is in brand-new condition, never used, and in its original packaging (if applicable). It has no signs of wear and is fully functional."
+    },
+    {
+        "Name": "Like New",
+        "Description": "The asset has been used, but it is in near-perfect condition with no visible signs of wear. It performs as if it were new and is fully functional."
+    },
+    {
+        "Name": "Good",
+        "Description": "The asset has been used, but it is in good working condition. It may show minimal signs of wear (e.g., small scratches or marks) but is still fully operational and reliable."
+    },
+    {
+        "Name": "Fair",
+        "Description": "The asset shows more noticeable signs of wear, such as visible scratches, dents, or fading, but it remains functional. It may require minor maintenance but is still useful."
+    },
+    {
+        "Name": "Poor",
+        "Description": " The asset is heavily worn or damaged. While it may still function, it requires significant repairs or maintenance to restore it to good working condition. Its lifespan is likely nearing the end."
+    },
+    {
+        "Name": "Broken",
+        "Description": "The asset is not operational and requires repair before it can be used again. This condition indicates that the asset may have suffered from mechanical or technical failure."
+    },
+    {
+        "Name": "Obsolete",
+        "Description": "The asset is outdated and no longer useful for its intended purpose, even if it’s still functional. It may have been replaced by newer technology or is no longer supported by manufacturers."
+    },
+    {
+        "Name": "Scrapped",
+        "Description": "The asset has been decommissioned and is no longer in use. It may have been dismantled or set aside for parts or recycling."
+    },
+    {
+        "Name": "Under Maintenance",
+        "Description": "The asset is temporarily unavailable due to ongoing maintenance work. It is expected to be restored to working condition after repairs."
+    },
+    {
+        "Name": "Pending Disposal",
+        "Description": "The asset is no longer required by the organization and is in the process of being disposed of. It is no longer useful or functional and will be removed from inventory."
+    }
+]

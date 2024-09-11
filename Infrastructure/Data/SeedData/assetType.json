@@ -1,0 +1,22 @@
+[
+    {        
+        "Name": "IT Equipment",
+        "Description": "Includes computers, laptops, servers, network devices, and other hardware used for business operations and communication.",
+        "IsActive": true
+    },
+    {        
+        "Name": "Vehicle",
+        "Description": "A motorized asset such as a car, truck, or motorcycle. Typically used for transportation and fleet management.",
+        "IsActive": true
+    },
+    {        
+        "Name": "Office Equipment",
+        "Description": "Items such as printers, copiers, scanners, and fax machines used to support administrative functions.",
+        "IsActive": true
+    },
+    {        
+        "Name": "Software License",
+        "Description": "Intangible assets like software licenses and applications that are purchased and used within the organization.",
+        "IsActive": true
+    }
+]

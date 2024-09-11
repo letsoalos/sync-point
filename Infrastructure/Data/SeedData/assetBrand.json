@@ -1,0 +1,104 @@
+[
+    {        
+        "Name": "Dell",
+        "Description":"An American multinational known for its desktops, laptops, servers, and storage solutions, especially for businesses.",
+        "IsActive": true
+    },
+    {       
+        "Name": "HP (Hewlett-Packard)",
+        "Description":"Specializes in personal computing, enterprise products like servers, storage, and printers.",
+        "IsActive": true
+    },
+    {        
+        "Name": "Lenovo",
+        "Description":"A Chinese multinational, one of the world’s largest PC manufacturers, known for its ThinkPad laptops.",
+        "IsActive": true
+    },
+    {        
+        "Name": "Apple",
+        "Description":"Known for its high-end laptops (MacBook), desktops (iMac), and devices like iPads and iPhones, with a focus on design and user experience.",
+        "IsActive": true
+    },
+    {        
+        "Name": "Asus",
+        "Description":"A Taiwanese company that manufactures computers, laptops, and motherboards, popular in the gaming and business world.",
+        "IsActive": true
+    },
+    {        
+        "Name": "Microsoft",
+        "Description":" Known for its Surface tablets, laptops, and enterprise hardware, and its Windows operating system.",
+        "IsActive": true
+    },
+    {        
+        "Name": "Samsung",
+        "Description":"A South Korean conglomerate that manufactures PCs, mobile phones, and other electronic devices.",
+        "IsActive": true
+    },
+    {        
+        "Name": "Huawei",
+        "Description":"A Chinese multinational that manufactures telecommunications equipment and consumer electronics like smartphones.",
+        "IsActive": true
+    },
+    {        
+        "Name": "ZTE",
+        "Description":"A Chinese company focused on telecommunications equipment and systems, including 5G technology.",
+        "IsActive": true
+    },
+    {        
+        "Name": "Adobe",
+        "Description":"Known for its suite of creative software products, including Photoshop, Illustrator, and Acrobat.",
+        "IsActive": true
+    },
+    {        
+        "Name": "SAP",
+        "Description":"A German multinational that produces enterprise software for managing business operations and customer relations.",
+        "IsActive": true
+    },
+    {        
+        "Name": "Xerox",
+        "Description":"Known for its photocopiers, printers, and document management systems, originating from the U.S.",
+        "IsActive": true
+    },
+    {
+        
+        "Name": "Brother",
+        "Description":"A Japanese company specializing in printers, multifunction devices, and label printers.",
+        "IsActive": true
+    },
+    {        
+        "Name": "Epson",
+        "Description":"A global leader in printing and imaging products, especially known for inkjet printers and",
+        "IsActive": true
+    },
+    {        
+        "Name": "Kyocera",
+        "Description":"A Japanese multinational known for durable printers, copiers, and multifunctional devices.",
+        "IsActive": true
+    },
+    {
+        
+        "Name": "Toyota",
+        "Description":"A Japanese multinational brand known for producing reliable, fuel-efficient vehicles and advanced hybrid technology.",
+        "IsActive": true
+    },
+    {        
+        "Name": "Ford",
+        "Description":"An American car manufacturer famous for its trucks, SUVs, and the iconic Mustang.",
+        "IsActive": true
+    },
+    {        
+        "Name": "BMW",
+        "Description":"A German luxury vehicle brand, recognized for performance, innovation, and premium cars and motorcycles.",
+        "IsActive": true
+    },
+    {        
+        "Name": "Mercedes-Benz",
+        "Description":"Another German brand, renowned for luxury vehicles, buses, and trucks, and cutting-edge safety technology.",
+        "IsActive": true
+    },
+    {        
+        "Name": "Nissan",
+        "Description":"A Japanese brand that produces a wide range of vehicles, including electric cars (like the Nissan Leaf) and trucks.",
+        "IsActive": true
+    }
+]

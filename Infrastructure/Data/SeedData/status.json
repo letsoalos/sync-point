@@ -1,0 +1,58 @@
+[
+    {
+        "Name": "Active",
+        "Description": "The asset is currently in use and fully functional. It is part of the organization's daily operations and is available for use without restrictions."
+    },
+    {
+        "Name": "Inactive",
+        "Description": "The asset is not currently in use, but it is still functional. It may be placed in storage or awaiting reassignment or further decision about its future use."
+    },
+    {
+        "Name": "Under Maintenance",
+        "Description": "The asset is undergoing repairs or maintenance and is temporarily unavailable for use. It is expected to return to active status once maintenance is completed."
+    },
+    {
+        "Name": "Pending Approval",
+        "Description": "The asset is awaiting administrative approval for certain actions, such as being placed into service, transferred, or disposed of."
+    },
+    {
+        "Name": "Decommissioned",
+        "Description": "The asset has reached the end of its useful life and has been formally removed from active service. It may be retained for parts or disposed of permanently."
+    },
+    {
+        "Name": "Loaned",
+        "Description": "The asset has been temporarily provided to another department, organization, or individual under a loan agreement. It is expected to be returned after the loan period ends."
+    },
+    {
+        "Name": "Lost",
+        "Description": "The asset has been reported stolen and is no longer in the organization's possession. Legal or recovery actions may be pursued."
+    },
+    {
+        "Name": "Reserved",
+        "Description": "The asset is set aside for future use or a specific purpose. It is not currently in active service but is designated for a specific task or project."
+    },
+    {
+        "Name": "Under Inspection",
+        "Description": "The asset is undergoing inspection or audit to determine its condition or verify its usage. It is temporarily unavailable until the inspection is complete."
+    },
+    {
+        "Name": "Transferred",
+        "Description": "The asset has been moved from one branch, department, or location to another. It is still active but is being used in a different part of the organization."
+    },
+    {
+        "Name": "Damaged",
+        "Description": "The asset has sustained damage and is either partially functional or non-functional. Repairs may be pending or the asset might be awaiting disposal."
+    },
+    {
+        "Name": "Retired",
+        "Description": "The asset is no longer in active use but remains within the organization for historical purposes, record-keeping, or non-operational roles."
+    },
+    {
+        "Name": "Quarantined",
+        "Description": "The asset has been flagged due to potential safety or compliance issues and is isolated from use until further evaluation or repair."
+    },
+    {
+        "Name": "Awaiting Disposal",
+        "Description": "The asset is no longer required or useful to the organization and is awaiting disposal. This could include sale, donation, or scrapping."
+    }
+]

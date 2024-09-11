@@ -1,0 +1,29 @@
+[
+    {
+        "Name": "MBH",
+        "StreetName": "52 Wierda Road West",
+        "Suburb": "Sandton",
+        "City": "JHB",
+        "Code": 2196,
+        "ProvinceId": 3,
+        "ContactPersonId": 1
+    },
+    {
+        "Name": "MSW",
+        "StreetName": "33 Riley Road, Woodmead",
+        "Suburb": "Sandton",
+        "City": "JHB",
+        "Code": 2191,
+        "ProvinceId": 3,
+        "ContactPersonId": 1
+    },
+    {
+        "Name": "Baatshuma Benoni",
+        "StreetName": "74 Jarrah Road",
+        "Suburb": "Fairleads",
+        "City": "Benoni",
+        "Code": 1500,
+        "ProvinceId": 3,
+        "ContactPersonId": 1
+    }
+]

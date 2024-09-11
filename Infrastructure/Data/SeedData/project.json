@@ -1,0 +1,23 @@
+[
+    {
+        "Name": "Credit Control",
+        "Description": "Revenue Enhancement",
+        "IsActive": true,
+        "StartDate":  "2024-10-01T00:00:00",
+        "EndDate":  "2026-10-01T00:00:00"
+    },
+    {
+        "Name": "Meter Reading",
+        "Description": "Revenue Enhancement",
+        "IsActive": true,
+        "StartDate":  "2024-10-01T00:00:00",
+        "EndDate":  "2026-10-01T00:00:00"
+    },
+    {
+        "Name": "Indigent",
+        "Description": "Revenue Enhancement",
+        "IsActive": true,
+        "StartDate":  "2024-10-01T00:00:00",
+        "EndDate":  "2026-10-01T00:00:00"
+    }
+]
